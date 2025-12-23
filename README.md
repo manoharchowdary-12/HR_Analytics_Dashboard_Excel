@@ -66,11 +66,6 @@ Use the slicers (Gender, Department, Education, Job Role) to filter data
 
 Analyze KPIs and charts that update dynamically based on selections
 
-📂 **Repository Structure**
-HR_Analytics_Dashboard/
-│
-├── HR_Analytics_Dashboard.xlsx
-├── HR_Analytics_Dashboard.png
-└── README.md
+
 
 
